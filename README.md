@@ -9,6 +9,9 @@ A font inspired by the [Standoff 2](https://install.standoff2.com/en/) logo for 
 [![Static Badge](https://img.shields.io/badge/vkontakte-1.0-0077FF?logo=vk&logoColor=0077FF)](https://vk.com/wall-224629273_168)
 [![Static Badge](https://img.shields.io/badge/license-CC%20BY%204.0%20-lightgrey)](https://creativecommons.org/licenses/by/4.0/deed.en)
 
+## Usage & Contribution
+**Bebasbolt is based on a font copyrighted by Axlebolt LTD.** Therefore Bebasbolt is distributed under [Creative Commons Attribution 4.0 International (CC-BY-4.0)](https://github.com/Wanja01YT/bebasbolt/blob/main/LICENSE). When sharing, make sure to credit _Axlebolt LTD_ as well as _Wanja01 & Snowy_ for the font creation.
+
 ## Downloads
 [OpenType (1.0.0)](https://github.com/Wanja01YT/bebasbolt/releases/download/release-1.0.0/Bebasbolt-1.0.0-release.otf) | 
 [TrueType (1.0.0)](https://github.com/Wanja01YT/bebasbolt/releases/download/release-1.0.0/Bebasbolt-1.0.0-release.ttf) | 
@@ -19,5 +22,4 @@ A font inspired by the [Standoff 2](https://install.standoff2.com/en/) logo for 
 ![Alternative Letter Variants](https://raw.githubusercontent.com/Wanja01YT/bebasbolt/main/images/bebasbolt-2.png)
 ![Usage Examples](https://raw.githubusercontent.com/Wanja01YT/bebasbolt/main/images/bebasbolt-3.png)
 
-## Usage & Contribution
-**Bebasbolt is based on a font copyrighted by Axlebolt LTD.** Therefore Bebasbolt is distributed under Creative Commons Attribution 4.0 International (CC-BY-4.0). _When sharing, make sure to credit Axlebolt LTD as well as Wanja01 & Snowy for the font creation_.
+

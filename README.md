@@ -13,9 +13,9 @@ A font inspired by the [Standoff 2](https://install.standoff2.com/en/) logo for 
 **Bebasbolt is based on a font copyrighted by Axlebolt LTD.** Therefore Bebasbolt is distributed under [Creative Commons Attribution 4.0 International (CC-BY-4.0)](https://github.com/Wanja01YT/bebasbolt/blob/main/LICENSE). When sharing, make sure to credit _Axlebolt LTD_ as well as _Wanja01 & Snowy_ for the font creation.
 
 ## Downloads
-[OpenType (1.0.1)](https://github.com/Wanja01YT/bebasbolt/releases/download/release-1.0.2/Bebasbolt-1.0.2-release.otf) | 
-[TrueType (1.0.1)](https://github.com/Wanja01YT/bebasbolt/releases/download/release-1.0.2/Bebasbolt-1.0.2-release.ttf) | 
-[WOFF2 (1.0.1)](https://github.com/Wanja01YT/bebasbolt/releases/download/release-1.0.2/Bebasbolt-1.0.2-release.woff2)
+[OpenType (1.0.3)](https://github.com/Wanja01YT/bebasbolt/releases/download/release-1.0.3/Bebasbolt-1.0.3-release.otf) | 
+[TrueType (1.0.3)](https://github.com/Wanja01YT/bebasbolt/releases/download/release-1.0.3/Bebasbolt-1.0.3-release.ttf) | 
+[WOFF2 (1.0.3)](https://github.com/Wanja01YT/bebasbolt/releases/download/release-1.0.3/Bebasbolt-1.0.3-release.woff2)
 
 ## Overview
 ![Font Overview](https://raw.githubusercontent.com/Wanja01YT/bebasbolt/main/images/bebasbolt-1.png)
